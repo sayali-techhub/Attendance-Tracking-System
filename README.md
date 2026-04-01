@@ -1,6 +1,6 @@
-# Student Attendance Management System
+#Attendance Tracking System
 
-## Professional Java Swing Application (Resume-Ready)
+## Professional Java Swing Application 
 
 ### Features
 - **OOP**: Encapsulation, modular classes (Model-Service-GUI)
@@ -11,7 +11,7 @@
 
 ### Run
 ```
-cd "c:/Users/sayali/Downloads/StudentAttendanceSystem"
+
 javac -d . model/*.java service/*.java gui/*.java
 java -cp . gui.AttendanceGUI
 ```
